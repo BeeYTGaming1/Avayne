@@ -1,0 +1,19 @@
+{
+    "prefix": "!",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "secret": "TDNGKZ6BGUmCz1pjqO1_24jcCN0spB0y",
+    "id": "853225627926003732",
+    "dashboardURL": "http://localhost:1003",
+    "semoji": "⭐",
+    "femoji": "❌",
+    "owners" : ["825989501288972288"],
+    "color": "#f55d05",
+    "alexflipnote": "cOzYZ4xBggDZq57Mdz-4JZgwwwmuH5JOfCaod8jI",
+    "footertext": "Just A Cat",
+    "footericon": "",
+    "wrongcolor": "#ad0011",
+    "voice_log_console": true,
+    "check_all_channels_Interval_in_seconds": 10,
+    "AME_API": "6f5f59280172426c821ece5adf83ac01877c0f7ad59946bf66a72c5addd2818907597db29d5512ba1170a9fbfee287bc68a755ae0306d137993a43a28393a040"
+}

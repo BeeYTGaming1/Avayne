@@ -1,0 +1,14 @@
+{
+    "languages": ["vietnamese", "english"],
+    "translations": {
+        "COMMAND_SUCCESS": {
+            "vietnamese": "Lệnh thực hiện thành công!",
+            "english": "Done!"
+          },
+          "HANDLER_COMMAND_DOES_NOT_EXIST": {
+              "vietnamese": "Lệnh này không tồn tại. Vui lòng dùng lệnh ``{prefix}help`` để xem danh sách lệnh",
+              "english": "This command does not exist. Type ``{prefix}help`` to get the list of commands"
+          }
+
+    }
+}
